@@ -1,0 +1,9 @@
+INDEX VERSION 1.131+E:\STUDY\SEMESTER 3\PBO C\KumpulanTugasGUI\.metadata\.plugins\org.eclipse.jdt.core
+3307028462.index
+2870199315.index
+2158782253.index
+1865797976.index
+3363917034.index
+130661805.index
+1506641177.index
+3284886941.index
