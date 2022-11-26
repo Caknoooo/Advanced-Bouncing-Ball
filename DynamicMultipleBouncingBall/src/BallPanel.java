@@ -89,7 +89,7 @@ public class BallPanel extends JPanel implements KeyListener {
 		int x = rand.nextInt(this.areaWidth - radius * 2 - 20) + radius + 10;
 		int y = rand.nextInt(this.areaHeight - radius * 2 - 20) + radius + 10;
 
-		if (balls.isEmpty()) {
+		if (!balls.isEmpty()) {
 			while (isOverLapping(tempX, tempY, x, y, radius)) {
 				x = rand.nextInt(this.areaWidth - radius * 2 - 20) + radius + 10;
 				y = rand.nextInt(this.areaHeight - radius * 2 - 20) + radius + 10;
